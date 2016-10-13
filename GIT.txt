@@ -1,5 +1,22 @@
+<<<<<<< HEAD
+tdtdrdrdrdrd
+Hola!!!!!!!!
+=======
+>>>>>>> 01025ece9bbdf28476576457459a34d1b2b0a119
 tdtdrdrMODIFICACIO ALBERTdrdrd
 modificant el fitcher per Manel
+dsfdfsdfs
 Aina is writting this
-
-Beep Boop haciendo una rama
+<<<<<<< HEAD
+hola
+=======
+<<<<<<< HEAD
+hola
+=======
+holaXXXX
+>>>>>>> origin/master
+holaaaaaaaaaa
+>>>>>>> 01025ece9bbdf28476576457459a34d1b2b0a119
+branch albert
+nova modificació
+linia para testear merge 3?
